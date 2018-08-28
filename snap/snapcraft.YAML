@@ -8,7 +8,7 @@
   grade: stable
   confinement: devmode # use 'strict' once you have the right plugs and slots
  apps:
-  statusnap:
+  probaflask:
     command: run
 parts:
     probaflask:
